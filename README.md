@@ -6,6 +6,7 @@ JustVPS is a hosting provider that's been around since 2016, specializing in vir
 
 What sets them apart? They focus on KVM virtualization, which means you get actual dedicated resources instead of fighting with neighbors for CPU time. Their data centers span multiple locations including the United States, Netherlands, and Russia, giving you options depending on where your audience lives.
 
+<img width="2820" height="1793" alt="image" src="https://github.com/user-attachments/assets/6e5dca13-6874-4bbe-8a3b-f1305f283254" />
 
 The company positions itself as a budget-friendly option without sacrificing the essentials. You get full root access, choice of Linux distributions, and the ability to scale as your project grows. They're particularly popular with developers and smaller businesses who need reliable hosting but don't want to spend enterprise-level money.
 
